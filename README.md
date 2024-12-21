@@ -36,32 +36,43 @@ A desktop application to streamline and enhance the management of final year pro
 - **PDF Generation:** iTextSharp
 
 ## User Interface
+
 **Main Form**
+
 ![Main_Form](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Main%20Form.png)
 
 **Sign Up**
+
 ![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Signup.png)
 
 **Dashboard**
+
 ![Dashboard](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Dashboard.png)
 
 **Manage Student**
+
 ![ManageStudent](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Manage%20Student.png)
 
 **Manage Group**
+
 ![ManageGroup](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Manage%20Group.png)
 
 **Manage Project**
+
 ![ManageProject](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Manage%20Project.png)
 
 **Manage Advisor**
+
 ![ManageAdvisor](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Manage%20Advisor.png)
 
 **Evaluation**
+
 ![Evaluation](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/Evaluation.png)
 
 **List of Projects**
+
 ![ListofProjects](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/List%20of%20Projects.png)
 
 **List of Assigned Advisors**
+
 ![ListofAssignedAdvisors](https://raw.githubusercontent.com/aleenaabid196/FYP-Management-System/refs/heads/main/UI_Screenshots/List%20of%20Assigned%20Advisors.png)
